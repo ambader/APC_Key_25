@@ -26,7 +26,7 @@ for i in range(len(available_ports)):
         midiin.open_port(i)
 ```
 
-
+send_midi_sample.py
 ```python
 import numpy as np
 import time
