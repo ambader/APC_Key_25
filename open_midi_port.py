@@ -1,4 +1,3 @@
-import time
 import rtmidi
 
 midiout = rtmidi.MidiOut()
