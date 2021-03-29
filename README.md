@@ -9,14 +9,14 @@ Control the Apc Key 25 pad
 ## Background
 The APC Key 25 (and many other DAW controller) has colorful buttons which can be turned on and off by Midi-Messages.
 By reading the output of the keyboard, I identified the 5x8 Matrix buttons to be eqal to [144, x, 0], where x is between 0 and 39.
-To change the light of a particular button, one has to send a Midi-Message [144, x, y], where y determines the color:
-0 - off
-1 - green
-2 - green flashing
-3 - red
-4 - red flashing
-5 - yellow
-6 - yellow flashing
+To change the light of a particular button, one has to send a Midi-Message [144, x, y], where y determines the color:\
+0 - off\
+1 - green\
+2 - green flashing\
+3 - red\
+4 - red flashing\
+5 - yellow\
+6 - yellow flashing\
 
 ## How to use
 ```python
