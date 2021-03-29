@@ -54,3 +54,11 @@ def alive_col(inp,timer):
             midiout.send_message([144, j, 0])
     
 ```
+
+```python
+alive_col([1,3,5],3)
+alive_col([1,1,5],3)
+alive_col([3,3,5],3)
+alive_col([3,3,1],3)
+alive_col([1,3,5],3)
+```
