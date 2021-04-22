@@ -4,10 +4,7 @@ Control the Apc Key 25 pad
 
 ## Preview
 ![sample_gif](https://raw.githubusercontent.com/ambader/APC_Key_25/main/sample.gif)
-
-<video width="320" height="200" controls preload> 
-    <source src="https://raw.githubusercontent.com/ambader/APC_Key_25/main/apc_key_25.webm"></source> 
-</video>
+![Dwld Vid](https://raw.githubusercontent.com/ambader/APC_Key_25/main/apc_key_25.webm)
 
 ## Background
 The APC Key 25 has colorful buttons which can be turned on and off by Midi-Messages.
