@@ -6,7 +6,7 @@ Control the Apc Key 25 pad
 ![sample_gif](https://raw.githubusercontent.com/ambader/APC_Key_25/main/sample.gif)
 
 <video width="320" height="200" controls preload> 
-    <source src="apc_key_25.webm"></source> 
+    <source src="https://raw.githubusercontent.com/ambader/APC_Key_25/main/apc_key_25.webm"></source> 
 </video>
 
 ## Background
