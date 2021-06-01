@@ -17,7 +17,7 @@ To change the light of a particular button, one has to send a Midi-Message [144,
 3 - red\
 4 - red flashing\
 5 - yellow\
-6 - yellow flashing\
+6 - yellow flashing
 
 Other DAW controller may work the same way
 
